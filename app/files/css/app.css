@@ -1,0 +1,19 @@
+@import url(code.css);
+@import url(blockly.css);
+body {
+  display: flex;
+  flex-direction: row;
+  margin: 0; }
+
+.hidden {
+  display: none; }
+
+.block {
+  width: 100vw;
+  height: 100vh; }
+
+.code {
+  background: #1E1E1E;
+  color: #DCDCDC; }
+
+/*# sourceMappingURL=app.css.map */
